@@ -1,0 +1,10 @@
+
+.conv{
+    background-color: beige;
+    margin:5px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+    padding:25px 10px;
+    width:80%;
+}
